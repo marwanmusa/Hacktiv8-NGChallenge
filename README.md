@@ -4,7 +4,7 @@ Topic of challenges :
 - Looping
 - Function
 - Linear Algebra
-- Calculus
+- Calculus 
 - MySQL
 - Statistics
 
